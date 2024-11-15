@@ -1,0 +1,41 @@
+
+1. 
+Question : "რა არის !important-ი css-ში და შეგვიძლია თუ არა მისი გამოყენება tailwind-ში?" 
+Answer : 
+ !important 
+2. 
+Question : "რა არის <iframe>?" 
+Answer : 
+--------
+3.
+Question : "მოიყვანეთ სემანტიკური ელემენტების მაგალითები" 
+Answer : 
+--------
+4.
+Question : "რა განსხვავებებია position: relative-ს, fixed-ს, absolute-სა და sticky-ის შორის?" 
+Answer : 
+--------
+5.
+Question : "რითი განსხვავდება rem და em-ი ერთმანეთისგან?" 
+Answer : 
+--------
+6.
+Question : "რა არის ვირტუალური DOM-ი?" 
+Answer : 
+--------
+7.
+Question : "რა არის useEffect-ის გამოყენების მიზანი?"
+Answer : 
+--------
+8.
+Question : "რა არის Zustand-ი?" 
+Answer : 
+--------
+9.
+Question : "რა არის და როგორ შვქმნათ დინამიური როუთი Next.js-ში" 
+Answer : 
+--------
+10.
+Question : "რისთვის ამოიყენება (home) ფოლდერის დასახლება Next-ში. " 
+Answer : 
+--------
